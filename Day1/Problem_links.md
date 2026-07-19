@@ -1,5 +1,5 @@
 ### problems links
-[problem1](https://codeforces.com/contest/1726/problem/B)
-[problem2](https://codeforces.com/contest/1766/problem/B)
-[problem3](https://codeforces.com/contest/1800/problem/C1)
+[B. Mainak and Interesting Sequence](https://codeforces.com/contest/1726/problem/B)
+[B. Notepad#](https://codeforces.com/contest/1766/problem/B)
+[C2. Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2)
 ### all using cpp & python
